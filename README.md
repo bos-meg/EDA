@@ -30,5 +30,3 @@ This analysis can help a business:
 - Identify categories that may need improvement or promotion
 
 ## Files
-- `eda_analysis.ipynb` → My analysis
-- `data.csv` → The dataset
