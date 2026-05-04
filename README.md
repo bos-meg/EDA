@@ -1,6 +1,6 @@
 # Holiday Sales Comparison (Year vs Year)
 
-## What this project is
+What this project is
 I analyzed sales data from one holiday across two different years to compare how product categories performed.
 
 ## Goal
