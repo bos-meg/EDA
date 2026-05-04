@@ -32,6 +32,3 @@ This analysis can help a business:
 ## Files
 - `eda_analysis.ipynb` → My analysis
 - `data.csv` → The dataset
-
-## About me
-I’m learning data analysis and building projects to understand how data can support better business decisions.
